@@ -1,0 +1,17 @@
+.bg-dark {
+  background-color: #1e1e1e !important;
+}
+
+.card {
+  border: none;
+  border-radius: 0.75rem;
+}
+
+.card-title {
+  font-size: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+.card-text {
+  font-size: 1rem;
+}
