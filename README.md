@@ -23,9 +23,4 @@ Includes separate dashboards for Admin and Employees, built using React, Tailwin
 - JavaScript (ES6+)
 - localStorage for data storage
 
-## 🚀 **Getting Started**
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
